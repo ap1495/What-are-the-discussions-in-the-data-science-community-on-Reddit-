@@ -15,5 +15,5 @@ This notebook contains embedded tableau visualizations and interactive plotly vi
 - Ploltly
 - Matplotlib
 
-# Machine Learning Model Implemented
+# Machine Learning Model Implemented:
 - Latent Dirichlet Allocation (LDA)
